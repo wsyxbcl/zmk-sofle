@@ -271,7 +271,7 @@
 
         base {
             bindings = <
-&kp LEFT_CTRL  &kp NUMBER_1                  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5       &kp UP_ARROW     &kp NUMBER_6  &kp N7            &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &kp BACKSPACE
+&kp LCTRL      &kp NUMBER_1                  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5       &kp UP_ARROW     &kp NUMBER_6  &kp N7            &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &kp BACKSPACE
 &kp TAB        &kp Q                         &kp W         &kp F         &kp P         &kp G              &kp DOWN_ARROW   &kp J         &kp L             &kp U         &kp Y         &kp SEMI      &kp BACKSLASH
 &kp BACKSPACE  &kp A                         &kp R         &kp S         &kp T         &kp D              &kp LEFT_ARROW   &kp H         &kp N             &kp E         &kp I         &kp O         &kp SINGLE_QUOTE
 &kp GRAVE      &shift_hold_tap LEFT_SHIFT Z  &kp X         &kp C         &lt 4 V       &kp B              &kp RIGHT_ARROW  &kp K         &kp M             &kp COMMA     &kp DOT       &kp FSLH      &kp ENTER
