@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
   BASE:
-  - LEFT CTRL
+  - $$mdi:apple-keyboard-control$$
   - '1'
   - '2'
   - '3'
